@@ -1,0 +1,5 @@
+body {
+    background-image: url('../../images/image.png');
+    background-size: cover; /* Adjust the background size to cover the entire screen */
+    background-color: rgb(73, 61, 45);
+}
